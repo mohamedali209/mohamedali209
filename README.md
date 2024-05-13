@@ -1,5 +1,5 @@
 ### Hi i am Mohamed Ali (Junior flutter developer) welcome to my profile  👋
-- 🔭 I’m currently working on flutter and dart.
+- 🔭 I’m currently working on flutter framework and dart language.
 - 🌱 I’m currently learning about flutter payment gates.
 - 👯 I’m looking to collaborate on different projects.
 - 📫 How to reach me: https://www.linkedin.com/in/mohamed-ali-55937a21b/
